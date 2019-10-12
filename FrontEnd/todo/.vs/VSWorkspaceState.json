@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\todo-list"
+  ],
+  "SelectedNode": "\\src\\app\\todo-data.service.ts",
+  "PreviewInSolutionExplorer": false
+}
